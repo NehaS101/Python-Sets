@@ -3,3 +3,6 @@
     *Input*: "Python"
     *Output*: "nohtyP"
 '''
+string = "Python"
+reverse = "".join(reversed(string))
+print(reverse)
