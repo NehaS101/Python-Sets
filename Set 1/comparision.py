@@ -3,3 +3,9 @@
      *Input*: None
      *Output*: "[1, 4, 9, 16, 25, 36, 49, 64, 81, 100]"
 '''
+
+num=10
+
+squares=[i**2 for i in range(1,num+1)]
+        
+print(squares)      
