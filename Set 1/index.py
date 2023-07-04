@@ -1,8 +1,6 @@
-'''
-1. **Hello, World!**: Write a Python program that prints "Hello, World!" to the console.
-    *Input*: None
-    *Output*: "Hello, World!"
-    '''
+
+
+
 
 '''
 2. **Data Type Play**: Create variables of each data type (integer, float, string, boolean, list, tuple, dictionary, set) and print their types and values.
